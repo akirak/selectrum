@@ -1,0 +1,2 @@
+(selectrum :fetcher github :repo "raxod502/selectrum"
+           :files (:defaults (:exclude "selectrum-helm.el")))
